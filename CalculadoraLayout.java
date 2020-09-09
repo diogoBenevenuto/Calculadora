@@ -37,7 +37,7 @@ public class trabcalcui extends JFrame {
 	 * Create the frame.
 	 */
 	public trabcalcui() {
-		setTitle("Calculadora Brabona");
+		setTitle("Calculadora Teste Marcelo");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 348, 427);
 		contentPane = new JPanel();
